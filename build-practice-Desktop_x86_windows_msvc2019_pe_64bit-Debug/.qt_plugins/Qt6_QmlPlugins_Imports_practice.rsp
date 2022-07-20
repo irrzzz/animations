@@ -1,0 +1,8 @@
+-rootPath
+C:/qml_practice/practice
+-cmake-output
+-output-file
+C:/qml_practice/build-practice-Desktop_x86_windows_msvc2019_pe_64bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_practice.cmake
+-importPath
+C:/Qt/6.3.1/msvc2019_64/./qml
+C:/qml_practice/build-practice-Desktop_x86_windows_msvc2019_pe_64bit-Debug

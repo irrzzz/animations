@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Coin.qml</file>
+        <file>Dices.qml</file>
+        <file>images/dices/black_dice.png</file>
+        <file>images/dices/red_dice.png</file>
+        <file>images/jp_coin/coin.png</file>
+        <file>images/jp_coin/coin_ore.png</file>
+        <file>images/jp_coin/coin_light.png</file>
+        <file>Clock.qml</file>
+        <file>images/clock/bells.png</file>
+        <file>images/clock/body.png</file>
+        <file>images/winner/light.png</file>
+        <file>images/winner/ribbon.png</file>
+        <file>images/winner/tourney_color.png</file>
+        <file>Winner.qml</file>
+        <file>images/widget/body.png</file>
+        <file>images/widget/border.png</file>
+        <file>images/widget/light.png</file>
+        <file>Widget.qml</file>
+        <file>Digit.qml</file>
+        <file>Win_player.qml</file>
+        <file>images/win_player/flag.png</file>
+        <file>images/win_player/light.png</file>
+        <file>images/win_player/star.png</file>
+        <file>images/win_player/avatar.png</file>
+        <file>images/win_player/sparks.png</file>
+        <file>Widget_lights.qml</file>
+        <file>images/win_player/full_star.png</file>
+    </qresource>
+</RCC>
